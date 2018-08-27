@@ -1,0 +1,1124 @@
+﻿Log file open, 08/27/18 13:00:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RacerPrototype
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1985884486) SRandInit(1985884486).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187222
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.27-11.00.23:784][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-11.00.23:784][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.27-11.00.23:811][  0]LogInit: Computer: DESKTOP-OEM0S1H
+[2018.08.27-11.00.23:811][  0]LogInit: User: Korisnik
+[2018.08.27-11.00.23:811][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.27-11.00.23:811][  0]LogInit: High frequency timer resolution =3.215366 MHz
+[2018.08.27-11.00.23:811][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.08.27-11.00.23:811][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.27-11.00.23:811][  0]LogMemory: Process Physical Memory: 272.28 MB used, 272.28 MB peak
+[2018.08.27-11.00.23:811][  0]LogMemory: Process Virtual Memory: 269.48 MB used, 269.48 MB peak
+[2018.08.27-11.00.23:811][  0]LogMemory: Physical Memory: 4348.98 MB used,  3798.68 MB free, 8147.66 MB total
+[2018.08.27-11.00.23:811][  0]LogMemory: Virtual Memory: 4796.34 MB used,  3798.68 MB free, 134217728.00 MB total
+[2018.08.27-11.00.24:227][  0]LogInit: Using OS detected language (en-US).
+[2018.08.27-11.00.24:227][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.27-11.00.24:231][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.27-11.00.24:753][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.27-11.00.25:136][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.27-11.00.25:227][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2018.08.27-11.00.25:227][  0]LogD3D11RHI:       1982/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.27-11.00.25:231][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.27-11.00.25:231][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.27-11.00.25:231][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.27-11.00.25:248][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.27-11.00.25:248][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.27-11.00.25:248][  0]LogWindows: EnumDisplayDevices:
+[2018.08.27-11.00.25:249][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2018.08.27-11.00.25:249][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2018.08.27-11.00.25:249][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.27-11.00.25:249][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2018.08.27-11.00.25:249][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.27-11.00.25:249][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.27-11.00.25:249][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2018.08.27-11.00.25:368][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.27-11.00.25:397][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.27-11.00.25:441][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Intermediate/Shaders/WorkingDirectory/3980/).
+[2018.08.27-11.00.25:442][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Korisnik/AppData/Local/Temp/UnrealShaderWorkingDir/153E09DD49540904BBB0B1B9666EFC08/'.
+[2018.08.27-11.00.25:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.27-11.00.26:970][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.27-11.00.27:087][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.27-11.00.27:203][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.27-11.00.27:320][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.27-11.00.27:439][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.27-11.00.27:556][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.27-11.00.27:672][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.27-11.00.27:788][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.27-11.00.27:895][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.27-11.00.28:022][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.27-11.00.28:136][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.27-11.00.28:261][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.27-11.00.28:406][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.27-11.00.28:523][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.27-11.00.28:813][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.27-11.00.28:813][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.27-11.00.28:957][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-11.00.29:061][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.27-11.00.29:242][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.27-11.00.29:298][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.27-11.00.29:415][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.27-11.00.29:536][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.27-11.00.29:656][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.27-11.00.29:777][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.27-11.00.29:777][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.27-11.00.31:281][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: Loaded boot cache 0.11s 78MB C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.27-11.00.31:395][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.27-11.00.31:415][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.27-11.00.31:427][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Korisnik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.27-11.00.31:460][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.27-11.00.31:461][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.27-11.00.31:462][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-11.00.31:462][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-11.00.32:015][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-11.00.32:735][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.27-11.00.32:836][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.27-11.00.32:836][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.27-11.00.32:836][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.27-11.00.32:836][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.27-11.00.32:836][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.27-11.00.32:880][  0]LogNetVersion: RacerPrototype , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2470993418)
+[2018.08.27-11.00.33:202][  0]LogAssetRegistry: FAssetRegistry took 0.0278 seconds to start up
+[2018.08.27-11.00.34:308][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.096825 seconds
+[2018.08.27-11.00.34:314][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.27-11.00.34:314][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.08.27-11.00.34:314][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.27-11.00.34:441][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.27-11.00.40:183][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.27-11.00.40:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.27-11.00.41:907][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.27-11.00.42:949][  0]SourceControl: Source control is disabled
+[2018.08.27-11.00.42:949][  0]SourceControl: Source control is disabled
+[2018.08.27-11.00.43:073][  0]SourceControl: Source control is disabled
+[2018.08.27-11.00.43:194][  0]SourceControl: Source control is disabled
+[2018.08.27-11.00.45:059][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.27-11.00.45:684][  0]LogOcInput: OculusInput pre-init called
+[2018.08.27-11.00.46:346][  0]LogEngine: Initializing Engine...
+[2018.08.27-11.00.46:349][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.27-11.00.46:818][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-11.00.46:818][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-11.00.47:165][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.27-11.00.47:178][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.00.47:253][  0]LogInit: FAudioDevice initialized.
+[2018.08.27-11.00.47:422][  0]LogDerivedDataCache: Saved boot cache 0.17s 91MB C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.27-11.00.47:486][  0]LogInit: Texture streaming: Enabled
+[2018.08.27-11.00.47:732][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.27-11.00.48:053][  0]LogInit: Transaction tracking system initialized
+[2018.08.27-11.00.48:939][  0]BlueprintLog: New page: Editor Load
+[2018.08.27-11.00.51:447][  0]LocalizationService: Localization service is disabled
+[2018.08.27-11.00.52:679][  0]LogLinker: Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2018.08.27-11.00.52:679][  0]LogLinker: Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2018.08.27-11.00.52:679][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2018.08.27-11.00.53:204][  0]LogConsoleResponse: Display: 
+[2018.08.27-11.00.53:734][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.27-11.00.53:734][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.27-11.00.53:734][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.27-11.00.54:907][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/' took 0.02s
+[2018.08.27-11.00.56:501][  0]SourceControl: Source control is disabled
+[2018.08.27-11.00.56:501][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-11.00.56:511][  0]LightingResults: New page: Lighting Build
+[2018.08.27-11.00.56:612][  0]MapCheck: New page: Map Check
+[2018.08.27-11.00.56:612][  0]LightingResults: New page: Lighting Build
+[2018.08.27-11.00.56:769][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-11.00.56:769][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap.
+[2018.08.27-11.00.56:770][  0]LoadErrors: Error: /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2018.08.27-11.00.57:018][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-11.00.57:018][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap.
+[2018.08.27-11.00.57:018][  0]LoadErrors: Error: /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2018.08.27-11.00.57:159][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-11.00.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-11.00.57:160][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-11.00.57:160][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-11.00.57:186][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-11.00.57:186][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2018.08.27-11.00.57:186][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-11.00.57:186][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2018.08.27-11.00.57:539][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.27-11.00.57:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-11.00.57:577][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-11.00.57:670][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 93.171ms to complete.
+[2018.08.27-11.00.57:670][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.169
+[2018.08.27-11.00.57:886][  0]LogCollectionManager: Loaded 0 collections in 0.002895 seconds
+[2018.08.27-11.00.58:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Collections/' took 0.01s
+[2018.08.27-11.00.58:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Developers/Korisnik/Collections/' took 0.01s
+[2018.08.27-11.00.58:064][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Collections/' took 0.01s
+[2018.08.27-11.00.58:064][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.27-11.00.58:075][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2363 classes and 519 folders.
+[2018.08.27-11.00.58:237][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-11.00.58:298][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-11.00.58:403][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-11.00.58:488][  0]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-11.00.58:493][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.27-11.00.58:502][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.27-11.00.58:695][  0]LogRenderer: Reallocating scene render targets to support 1136x652 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-11.00.59:033][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-11.00.59:033][  0]LogLoad: (Engine Initialization) Total time: 39.72 seconds
+[2018.08.27-11.00.59:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.27-11.00.59:033][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.27-11.00.59:420][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.27-11.00.59:723][  1]LogAssetRegistry: Asset discovery search completed in 26.5445 seconds
+[2018.08.27-11.00.59:726][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.27-11.00.59:726][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.08.27-11.01.00:375][  3]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-11.02.07:379][420]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-11.02.13:703][ 95]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-11.02.13:738][ 95]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/MyTire'
+[2018.08.27-11.02.13:738][ 95]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/MyTire' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Blueprints/WheelFront.uasset.
+[2018.08.27-11.02.13:738][ 95]LoadErrors: Error: /Game/Blueprints/WheelFront : Can't find file for asset. /Game/StarterContent/Blueprints/MyTire
+[2018.08.27-11.02.13:739][ 95]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/MyTire'
+[2018.08.27-11.02.13:739][ 95]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/MyTire' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Blueprints/WheelFront.uasset.
+[2018.08.27-11.02.13:739][ 95]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/MyTire'
+[2018.08.27-11.02.13:739][ 95]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/MyTire' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset.
+[2018.08.27-11.02.13:739][ 95]LoadErrors: Error: /Game/Vehicles/TestAutoLeMan/TestcarBlueprint : Can't find file for asset. /Game/StarterContent/Blueprints/MyTire
+[2018.08.27-11.02.13:740][ 95]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/MyTire'
+[2018.08.27-11.02.13:740][ 95]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/MyTire' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset.
+[2018.08.27-11.02.13:740][ 95]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/MyTire'
+[2018.08.27-11.02.13:740][ 95]LoadErrors: Failed to load /Game/StarterContent/Blueprints/MyTire.MyTire Referenced by Default__WheelFront_C
+[2018.08.27-11.02.13:740][ 95]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/MyTire' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset.
+[2018.08.27-11.02.13:820][ 95]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.02.13:858][ 95]Cmd: MAP LOAD FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-11.02.13:858][ 95]LightingResults: New page: Lighting Build
+[2018.08.27-11.02.13:859][ 95]LoadErrors: New page: Loading map: TestMap1.umap
+[2018.08.27-11.02.13:860][ 95]MapCheck: New page: Map Check
+[2018.08.27-11.02.13:860][ 95]LightingResults: New page: Lighting Build
+[2018.08.27-11.02.13:943][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-11.02.13:994][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-11.02.14:087][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.733ms to complete.
+[2018.08.27-11.02.14:088][ 95]LogFileHelpers: Loading map 'TestMap1' took 0.230
+[2018.08.27-11.02.32:440][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.02.32:516][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.02.32:517][ 33]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:02:32 PM)
+[2018.08.27-11.02.32:517][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.02.32:524][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006693s)
+[2018.08.27-11.02.32:525][ 33]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.02.32:525][ 33]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2018.08.27-11.02.32:525][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.008304s)
+[2018.08.27-11.02.32:545][ 33]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.02.32:557][ 33]LogInit: FAudioDevice initialized.
+[2018.08.27-11.02.32:603][ 33]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.02.32:611][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.02.32
+[2018.08.27-11.02.32:612][ 33]LogWorld: Bringing up level for play took: 0.007761
+[2018.08.27-11.02.32:733][ 33]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.27-11.02.32:734][ 33]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.265
+[2018.08.27-11.02.39:124][494]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.27-11.02.40:055][494]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-11.02.40:210][494]LogSlate: Took 0.006353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.27-11.02.40:329][495]LogSlate: Took 0.005722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.27-11.03.44:694][535]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Korisnik/Downloads/Car_1.FBX)
+[2018.08.27-11.03.44:728][535]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.27-11.03.44:728][535]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.27-11.03.44:728][535]LogFbx: ItemName: Model, ItemCount : 5
+[2018.08.27-11.03.44:728][535]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.08.27-11.03.44:740][535]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-11.03.44:759][535]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-11.03.49:278][535]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-11.03.49:288][535]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -90833568.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -529420784.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -529420784.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -529420784.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -529420784.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -90833568.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-11.03.49:289][535]LogFbx: =================================================
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.03.49:289][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:289][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:289][535]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.03.49:289][535]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.03.49:290][535]LogFbx: =================================================
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.03.49:290][535]LogFbx: 	Total Deformer Count -529425992.
+[2018.08.27-11.03.49:290][535]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.03.49:290][535]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.03.49:290][535]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.03.49:296][535]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-11.03.49:315][535]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-11.03.49:316][535]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-11.03.49:318][535]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_Skeleton'
+[2018.08.27-11.03.49:319][535]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_Skeleton'
+[2018.08.27-11.03.49:320][535]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset'
+[2018.08.27-11.03.49:320][535]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset'
+[2018.08.27-11.03.49:332][535]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-11.03.56:156][ 55]LogSavePackage: Save=36.64ms
+[2018.08.27-11.03.56:156][ 55]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestcarBlueprint0FD04F0448DED6D309A8B6A16AB8B745.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset'
+[2018.08.27-11.03.56:160][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset
+[2018.08.27-11.03.56:206][ 55]LogSavePackage: Save=18.33ms
+[2018.08.27-11.03.56:206][ 55]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_PhysicsAsset662DE47A41CAC29542616395343FF238.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset'
+[2018.08.27-11.03.56:210][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset
+[2018.08.27-11.03.56:224][ 55]LogSavePackage: Save=6.89ms
+[2018.08.27-11.03.56:224][ 55]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_Skeleton82BB31424C4D44DA5AEC0FA79AF2A814.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset'
+[2018.08.27-11.03.56:228][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset
+[2018.08.27-11.03.56:248][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-11.03.56:272][ 55]LogSavePackage: Save=21.34ms
+[2018.08.27-11.03.56:272][ 55]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1A62B71014E8A3133B1063AA10BBEFB3A.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-11.03.56:276][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-11.04.10:847][354]BlueprintLog: New page: Compile TestcarBlueprint
+[2018.08.27-11.04.12:908][521]LogSavePackage: Save=44.74ms
+[2018.08.27-11.04.12:908][521]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestcarBlueprintF13508DA466AC4F1FCEE97ABFABC79F7.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset'
+[2018.08.27-11.04.12:912][521]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset
+[2018.08.27-11.04.15:008][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.27-11.04.15:090][745]LogSavePackage: Save=42.57ms
+[2018.08.27-11.04.15:090][745]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestMap1A67806DB45BFA0A3CF7CDA9F9D5E6304.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap'
+[2018.08.27-11.04.15:094][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap
+[2018.08.27-11.04.15:133][745]LogFileHelpers: Saving map 'TestMap1' took 0.229
+[2018.08.27-11.04.16:723][825]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.08.27-11.04.16:837][825]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-11.04.17:313][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.27-11.04.17:807][825]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.27-11.04.17:867][826]LogRenderer: Reallocating scene render targets to support 1136x1008 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-11.04.21:642][140]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.TestcarBlueprint_C_6.VehicleMesh'
+[2018.08.27-11.04.21:642][140]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/TestMap1.TestMap1:PersistentLevel.TestcarBlueprint_155.VehicleMesh'
+[2018.08.27-11.04.21:642][140]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.08.27-11.04.21:646][140]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2018.08.27-11.05.40:048][143]LogSavePackage: Save=9.40ms
+[2018.08.27-11.05.40:048][143]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_PhysicsAssetDE5CADA349822DAC60BE98AE05D57DC2.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset'
+[2018.08.27-11.05.40:052][143]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset
+[2018.08.27-11.05.43:991][476]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.27-11.05.44:022][476]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.27-11.05.44:321][477]LogRenderer: Reallocating scene render targets to support 1144x1008 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-11.06.01:244][197]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.06.01:274][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.06.01:274][197]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:06:01 PM)
+[2018.08.27-11.06.01:274][197]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.06.01:280][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006409s)
+[2018.08.27-11.06.01:281][197]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.06.01:281][197]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.08.27-11.06.01:282][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.007765s)
+[2018.08.27-11.06.01:312][197]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.06.01:325][197]LogInit: FAudioDevice initialized.
+[2018.08.27-11.06.01:362][197]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.06.01:364][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.06.01
+[2018.08.27-11.06.01:364][197]LogWorld: Bringing up level for play took: 0.001483
+[2018.08.27-11.06.01:365][197]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.897
+[2018.08.27-11.06.13:834][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.06.13:856][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.06.13:856][578]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:06:13 PM)
+[2018.08.27-11.06.13:856][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.06.13:862][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005605s)
+[2018.08.27-11.06.13:863][578]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.06.13:863][578]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2018.08.27-11.06.13:863][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.006725s)
+[2018.08.27-11.06.13:899][578]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.06.13:910][578]LogInit: FAudioDevice initialized.
+[2018.08.27-11.06.13:949][578]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.06.13:953][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.06.13
+[2018.08.27-11.06.13:953][578]LogWorld: Bringing up level for play took: 0.003249
+[2018.08.27-11.06.13:955][578]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 -0.513
+[2018.08.27-11.06.42:479][772]LogEditorViewport: Clicking on Actor (LMB): TestcarBlueprint_C (TestcarBlueprint)
+[2018.08.27-11.07.02:597][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.08.27-11.07.02:633][323]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.08.27-11.07.17:646][642]Cmd: TRANSACTION UNDO
+[2018.08.27-11.07.17:646][642]LogEditorTransaction: Undo Rotate Bone
+[2018.08.27-11.07.18:116][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.08.27-11.07.18:166][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.27-11.07.18:178][642]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.08.27-11.07.21:542][913]Cmd: MODE ROTGRID=1
+[2018.08.27-11.07.34:678][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-11.07.34:706][ 97]LogSavePackage: Save=13.11ms
+[2018.08.27-11.07.34:706][ 97]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_17B9578F74B9F135A26EA26830BD7E286.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-11.07.34:708][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-11.07.36:502][236]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.07.36:527][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.07.36:527][236]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:07:36 PM)
+[2018.08.27-11.07.36:527][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.07.36:535][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007963s)
+[2018.08.27-11.07.36:536][236]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.07.36:537][236]LogPlayLevel: PIE: World Init took: (0.001483s)
+[2018.08.27-11.07.36:537][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.009873s)
+[2018.08.27-11.07.36:601][236]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.07.36:614][236]LogInit: FAudioDevice initialized.
+[2018.08.27-11.07.36:649][236]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.07.36:651][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.07.36
+[2018.08.27-11.07.36:652][236]LogWorld: Bringing up level for play took: 0.001850
+[2018.08.27-11.07.36:653][236]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.184
+[2018.08.27-11.08.13:158][595]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.08.13:184][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.08.13:185][595]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:08:13 PM)
+[2018.08.27-11.08.13:185][595]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.08.13:191][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006099s)
+[2018.08.27-11.08.13:192][595]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.08.13:192][595]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2018.08.27-11.08.13:193][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.008003s)
+[2018.08.27-11.08.13:226][595]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.08.13:238][595]LogInit: FAudioDevice initialized.
+[2018.08.27-11.08.13:276][595]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.08.13:278][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.08.13
+[2018.08.27-11.08.13:278][595]LogWorld: Bringing up level for play took: 0.001490
+[2018.08.27-11.08.13:279][595]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.811
+[2018.08.27-11.09.36:318][948]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.09.36:342][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.09.36:342][948]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:09:36 PM)
+[2018.08.27-11.09.36:342][948]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.09.36:348][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005893s)
+[2018.08.27-11.09.36:349][948]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.09.36:349][948]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2018.08.27-11.09.36:349][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.007090s)
+[2018.08.27-11.09.36:380][948]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.09.36:392][948]LogInit: FAudioDevice initialized.
+[2018.08.27-11.09.36:426][948]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.09.36:428][948]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.09.36
+[2018.08.27-11.09.36:428][948]LogWorld: Bringing up level for play took: 0.001460
+[2018.08.27-11.09.36:429][948]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 -0.039
+[2018.08.27-11.10.10:621][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.10.10:645][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.10.10:645][ 82]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:10:10 PM)
+[2018.08.27-11.10.10:645][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.10.10:650][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005498s)
+[2018.08.27-11.10.10:651][ 82]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.10.10:651][ 82]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.08.27-11.10.10:652][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.006689s)
+[2018.08.27-11.10.10:680][ 82]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.10.10:692][ 82]LogInit: FAudioDevice initialized.
+[2018.08.27-11.10.10:728][ 82]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.10.10:729][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.10.10
+[2018.08.27-11.10.10:730][ 82]LogWorld: Bringing up level for play took: 0.001419
+[2018.08.27-11.10.10:731][ 82]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.262
+[2018.08.27-11.10.53:142][360]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Korisnik/Downloads/Car_1.FBX)
+[2018.08.27-11.10.53:153][360]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.27-11.10.53:153][360]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.27-11.10.53:153][360]LogFbx: ItemName: Model, ItemCount : 5
+[2018.08.27-11.10.53:153][360]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.08.27-11.10.53:158][360]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-11.10.53:169][360]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-11.11.19:644][360]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-11.11.19:654][360]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -1386085232.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -454660928.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -454660928.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -454660928.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -454660928.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-11.11.19:655][360]LogFbx: 	Total Deformer Count -1386085232.
+[2018.08.27-11.11.19:655][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:655][360]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-11.11.19:655][360]LogFbx: =================================================
+[2018.08.27-11.11.19:655][360]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.11.19:656][360]LogFbx: =================================================
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.11.19:656][360]LogFbx: =================================================
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.11.19:656][360]LogFbx: =================================================
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.11.19:656][360]LogFbx: =================================================
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-11.11.19:656][360]LogFbx: =================================================
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-11.11.19:656][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:656][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:656][360]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-11.11.19:656][360]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-11.11.19:657][360]LogFbx: =================================================
+[2018.08.27-11.11.19:657][360]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-11.11.19:657][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:657][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:657][360]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-11.11.19:657][360]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-11.11.19:657][360]LogFbx: =================================================
+[2018.08.27-11.11.19:657][360]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-11.11.19:657][360]LogFbx: 	Total Deformer Count -454666472.
+[2018.08.27-11.11.19:657][360]LogFbx: 	Attribute () Type (4).
+[2018.08.27-11.11.19:657][360]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-11.11.19:657][360]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-11.11.19:660][360]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-11.11.19:673][360]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-11.11.19:675][360]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-11.11.19:688][360]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-11.11.32:052][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.27-11.11.32:138][518]LogSavePackage: Save=42.15ms
+[2018.08.27-11.11.32:138][518]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestMap1B4049FBC4D72D6C9129A4C82A8E8F831.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap'
+[2018.08.27-11.11.32:142][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap
+[2018.08.27-11.11.32:181][518]LogFileHelpers: Saving map 'TestMap1' took 0.237
+[2018.08.27-11.11.32:316][518]LogSavePackage: Save=59.78ms
+[2018.08.27-11.11.32:316][518]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestcarBlueprintF0986C554FD6C3C6AEB92E97580F3E3B.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset'
+[2018.08.27-11.11.32:320][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset
+[2018.08.27-11.11.32:391][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-11.11.32:438][518]LogSavePackage: Save=42.59ms
+[2018.08.27-11.11.32:438][518]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_14878246F4CA2DE9F86821588AADFE908.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-11.11.32:446][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-11.11.32:468][518]LogSavePackage: Save=11.36ms
+[2018.08.27-11.11.32:468][518]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_Skeleton1F17D147445A7909E4EC51B18BA58A26.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset'
+[2018.08.27-11.11.32:478][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset
+[2018.08.27-11.11.32:587][518]LogSavePackage: Save=36.38ms
+[2018.08.27-11.11.32:588][518]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_PhysicsAsset59ADB2354D5E24730053EDA2C149E8B0.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset'
+[2018.08.27-11.11.32:595][518]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset
+[2018.08.27-11.11.36:503][865]BlueprintLog: New page: Compile TestcarBlueprint
+[2018.08.27-11.11.37:652][925]LogSavePackage: Save=43.95ms
+[2018.08.27-11.11.37:652][925]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestcarBlueprint5C843A3E43671292338C8997E5DBE0AB.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset'
+[2018.08.27-11.11.37:656][925]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset
+[2018.08.27-11.11.40:470][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.27-11.11.40:547][224]LogSavePackage: Save=45.67ms
+[2018.08.27-11.11.40:548][224]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestMap18F4C2ED748FD6815C60BFFBF0E9DFFD0.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap'
+[2018.08.27-11.11.40:552][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap
+[2018.08.27-11.11.40:591][224]LogFileHelpers: Saving map 'TestMap1' took 0.228
+[2018.08.27-11.11.41:393][251]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_1) Already registered. Aborting.
+[2018.08.27-11.11.46:557][685]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2018.08.27-11.11.46:558][685]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.TestcarBlueprint_C_13.VehicleMesh'
+[2018.08.27-11.11.46:558][685]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/Maps/TestMap1.TestMap1:PersistentLevel.TestcarBlueprint_155.VehicleMesh'
+[2018.08.27-11.11.46:561][685]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.Actor_3.PhysicsAssetEditorSkeletalMeshComponent_1'
+[2018.08.27-11.12.24:790][  4]LogSavePackage: Save=9.34ms
+[2018.08.27-11.12.24:790][  4]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_PhysicsAsset83CAFAF54CE1CAA2163470B06DA95B61.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset'
+[2018.08.27-11.12.24:795][  4]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset
+[2018.08.27-11.12.28:621][243]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.08.27-11.12.28:650][243]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_4.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.08.27-11.12.41:754][444]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.12.41:784][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.12.41:784][444]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:12:41 PM)
+[2018.08.27-11.12.41:784][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.12.41:790][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005822s)
+[2018.08.27-11.12.41:791][444]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.12.41:791][444]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.08.27-11.12.41:791][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.007051s)
+[2018.08.27-11.12.41:822][444]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.12.41:834][444]LogInit: FAudioDevice initialized.
+[2018.08.27-11.12.41:870][444]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.12.41:872][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.12.41
+[2018.08.27-11.12.41:872][444]LogWorld: Bringing up level for play took: 0.001475
+[2018.08.27-11.12.41:873][444]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 -0.596
+[2018.08.27-11.13.02:839][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.13.02:862][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.13.02:862][829]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:13:02 PM)
+[2018.08.27-11.13.02:863][829]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.13.02:868][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005540s)
+[2018.08.27-11.13.02:869][829]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.13.02:870][829]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2018.08.27-11.13.02:870][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.007179s)
+[2018.08.27-11.13.02:903][829]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.13.02:913][829]LogInit: FAudioDevice initialized.
+[2018.08.27-11.13.02:950][829]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.13.02:952][829]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.13.02
+[2018.08.27-11.13.02:952][829]LogWorld: Bringing up level for play took: 0.001416
+[2018.08.27-11.13.02:953][829]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.485
+[2018.08.27-11.13.21:779][673]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-11.13.21:803][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-11.13.21:803][673]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 3:13:21 PM)
+[2018.08.27-11.13.21:803][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-11.13.21:809][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005736s)
+[2018.08.27-11.13.21:809][673]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-11.13.21:810][673]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2018.08.27-11.13.21:810][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.006949s)
+[2018.08.27-11.13.21:838][673]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-11.13.21:849][673]LogInit: FAudioDevice initialized.
+[2018.08.27-11.13.21:887][673]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-11.13.21:889][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-13.13.21
+[2018.08.27-11.13.21:889][673]LogWorld: Bringing up level for play took: 0.001429
+[2018.08.27-11.13.21:890][673]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 -0.579
+[2018.08.27-11.13.28:362][310]LogEditorViewport: Clicking on Actor (LMB): TestcarBlueprint_C (TestcarBlueprint)
+[2018.08.27-11.13.55:776][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.27-11.13.55:849][816]LogSavePackage: Save=41.91ms
+[2018.08.27-11.13.55:849][816]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestMap1D1F8890941D29642A7C70D9EE85B4722.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap'
+[2018.08.27-11.13.55:853][816]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap
+[2018.08.27-11.13.55:892][816]LogFileHelpers: Saving map 'TestMap1' took 0.223
+[2018.08.27-11.13.59:345][ 90]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.27-11.13.59:656][ 91]Cmd: QUIT_EDITOR
+[2018.08.27-11.14.00:273][ 91]LogExit: Preparing to exit.
+[2018.08.27-11.14.00:706][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/' was aborted.
+[2018.08.27-11.14.00:750][ 91]LogExit: Editor shut down
+[2018.08.27-11.14.00:754][ 91]LogExit: Transaction tracking system shut down
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.27-11.14.00:879][ 91]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.27-11.14.01:011][ 91]LogExit: Object subsystem successfully closed.
+[2018.08.27-11.14.01:026][ 91]LogD3D11RHI: Shutdown
+[2018.08.27-11.14.01:026][ 91]LogD3D11RHI: CleanupD3DDevice
+[2018.08.27-11.14.01:029][ 91]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (558)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module SkeletonEditor (556)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (554)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.08.27-11.14.01:058][ 91]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.08.27-11.14.01:059][ 91]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.08.27-11.14.01:061][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Collections/' was aborted.
+[2018.08.27-11.14.01:061][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Developers/Korisnik/Collections/' was aborted.
+[2018.08.27-11.14.01:061][ 91]LogDirectoryWatcher: A directory notification for 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Collections/' was aborted.
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.08.27-11.14.01:061][ 91]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.08.27-11.14.01:062][ 91]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.08.27-11.14.01:065][ 91]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.08.27-11.14.01:065][ 91]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.08.27-11.14.01:066][ 91]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.08.27-11.14.01:791][ 91]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.08.27-11.14.01:792][ 91]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.08.27-11.14.01:859][ 91]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.08.27-11.14.01:860][ 91]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.08.27-11.14.01:860][ 91]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.08.27-11.14.01:860][ 91]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.08.27-11.14.01:871][ 91]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.08.27-11.14.01:871][ 91]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.08.27-11.14.01:871][ 91]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.08.27-11.14.01:871][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.08.27-11.14.01:871][ 91]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.08.27-11.14.01:872][ 91]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.08.27-11.14.01:873][ 91]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.08.27-11.14.01:873][ 91]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.08.27-11.14.01:873][ 91]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.08.27-11.14.01:997][ 91]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.08.27-11.14.01:997][ 91]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.08.27-11.14.01:997][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.08.27-11.14.01:997][ 91]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.08.27-11.14.01:998][ 91]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.08.27-11.14.01:999][ 91]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.08.27-11.14.01:999][ 91]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.08.27-11.14.01:999][ 91]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.08.27-11.14.01:999][ 91]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.08.27-11.14.02:000][ 91]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.08.27-11.14.02:102][ 91]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.08.27-11.14.02:202][ 91]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.08.27-11.14.02:204][ 91]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.08.27-11.14.02:204][ 91]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.08.27-11.14.02:204][ 91]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.08.27-11.14.02:204][ 91]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.08.27-11.14.02:215][ 91]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.08.27-11.14.02:215][ 91]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.08.27-11.14.02:215][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.08.27-11.14.02:215][ 91]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.08.27-11.14.02:215][ 91]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.08.27-11.14.02:216][ 91]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.08.27-11.14.02:223][ 91]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.08.27-11.14.02:224][ 91]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.08.27-11.14.02:230][ 91]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.08.27-11.14.02:230][ 91]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.08.27-11.14.02:230][ 91]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.08.27-11.14.02:230][ 91]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.08.27-11.14.02:231][ 91]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.08.27-11.14.02:231][ 91]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.08.27-11.14.02:231][ 91]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.08.27-11.14.02:231][ 91]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.08.27-11.14.02:232][ 91]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.08.27-11.14.02:232][ 91]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.08.27-11.14.02:232][ 91]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.08.27-11.14.02:232][ 91]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.08.27-11.14.02:232][ 91]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.08.27-11.14.02:233][ 91]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.08.27-11.14.02:233][ 91]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.08.27-11.14.02:233][ 91]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.08.27-11.14.02:233][ 91]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.08.27-11.14.02:311][ 91]LogDerivedDataCache: Shutdown
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.08.27-11.14.02:311][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.08.27-11.14.02:312][ 91]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.27-11.14.02:313][ 91]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.27-11.14.02:314][ 91]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.27-11.14.02:314][ 91]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.27-11.14.02:314][ 91]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.27-11.14.02:314][ 91]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.27-11.14.02:314][ 91]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD0A9E87-445B-32F7-11E9-D0BD8DDC7789%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=11bb5d074705f19ee66488a56331540b%7C3e091662578b498bbdc2c48eafa836ad%7Cd13da71c-44f4-4d39-8c6d-46ae9516c0cd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.27-11.14.02:340][ 91]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.27-11.14.02:343][ 91]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.27-11.14.02:347][ 91]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.27-11.14.02:348][ 91]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.27-11.14.02:349][ 91]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.27-11.14.02:353][ 91]LogExit: Exiting.
+[2018.08.27-11.14.02:393][ 91]Log file closed, 08/27/18 13:14:02

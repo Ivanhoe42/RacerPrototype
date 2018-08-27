@@ -1,0 +1,1051 @@
+﻿Log file open, 08/27/18 14:36:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RacerPrototype
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-993835111) SRandInit(-993835111).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207425
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.27-12.36.16:452][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-12.36.16:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.27-12.36.16:496][  0]LogInit: Computer: DESKTOP-OEM0S1H
+[2018.08.27-12.36.16:496][  0]LogInit: User: Korisnik
+[2018.08.27-12.36.16:496][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.27-12.36.16:496][  0]LogInit: High frequency timer resolution =3.215366 MHz
+[2018.08.27-12.36.16:497][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.08.27-12.36.16:497][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.27-12.36.16:497][  0]LogMemory: Process Physical Memory: 272.65 MB used, 272.65 MB peak
+[2018.08.27-12.36.16:497][  0]LogMemory: Process Virtual Memory: 269.78 MB used, 269.78 MB peak
+[2018.08.27-12.36.16:497][  0]LogMemory: Physical Memory: 4851.73 MB used,  3295.94 MB free, 8147.66 MB total
+[2018.08.27-12.36.16:497][  0]LogMemory: Virtual Memory: 4796.34 MB used,  3295.94 MB free, 134217728.00 MB total
+[2018.08.27-12.36.16:865][  0]LogInit: Using OS detected language (en-US).
+[2018.08.27-12.36.16:865][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.27-12.36.16:870][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.27-12.36.17:416][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.27-12.36.20:287][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.27-12.36.20:379][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 1030' (Feature Level 11_0)
+[2018.08.27-12.36.20:379][  0]LogD3D11RHI:       1982/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.27-12.36.20:382][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.27-12.36.20:382][  0]LogD3D11RHI:       0/0/4073 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.27-12.36.20:382][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.27-12.36.20:392][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.27-12.36.20:392][  0]LogD3D11RHI:     GPU DeviceId: 0x1d01 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.27-12.36.20:392][  0]LogWindows: EnumDisplayDevices:
+[2018.08.27-12.36.20:392][  0]LogWindows:    0. 'NVIDIA GeForce GT 1030' (P:1 D:1)
+[2018.08.27-12.36.20:392][  0]LogWindows:    1. 'NVIDIA GeForce GT 1030' (P:0 D:0)
+[2018.08.27-12.36.20:393][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.27-12.36.20:393][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 1030
+[2018.08.27-12.36.20:393][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.27-12.36.20:393][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.27-12.36.20:393][  0]LogRHI: Texture pool is 1387 MB (70% of 1982 MB)
+[2018.08.27-12.36.20:454][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.27-12.36.20:474][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.27-12.36.20:517][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Intermediate/Shaders/WorkingDirectory/11244/).
+[2018.08.27-12.36.20:518][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Korisnik/AppData/Local/Temp/UnrealShaderWorkingDir/D2D84F4A4BEBBE99651253BB1CABCBAB/'.
+[2018.08.27-12.36.20:518][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.27-12.36.23:206][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.27-12.36.23:395][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.27-12.36.23:516][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.27-12.36.23:633][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.27-12.36.23:756][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.27-12.36.23:873][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.27-12.36.23:997][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.27-12.36.24:131][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.27-12.36.24:250][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.27-12.36.24:459][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.27-12.36.24:608][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.27-12.36.24:773][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.27-12.36.24:940][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.27-12.36.25:072][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.27-12.36.25:407][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.27-12.36.25:408][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.27-12.36.25:550][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.27-12.36.25:675][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.27-12.36.25:892][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.27-12.36.25:961][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.27-12.36.26:091][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.27-12.36.26:232][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.27-12.36.26:348][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.27-12.36.26:460][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.27-12.36.26:460][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.27-12.36.27:734][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: Loaded boot cache 0.15s 91MB C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.27-12.36.27:881][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.27-12.36.27:903][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.27-12.36.27:916][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Korisnik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.27-12.36.27:933][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.27-12.36.27:933][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.27-12.36.27:934][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-12.36.27:934][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.27-12.36.28:593][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.27-12.36.29:318][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.27-12.36.29:429][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.27-12.36.29:429][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.27-12.36.29:429][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.27-12.36.29:429][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.27-12.36.29:429][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.27-12.36.29:485][  0]LogNetVersion: RacerPrototype , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2470993418)
+[2018.08.27-12.36.29:787][  0]LogAssetRegistry: FAssetRegistry took 0.0279 seconds to start up
+[2018.08.27-12.36.30:799][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.095822 seconds
+[2018.08.27-12.36.30:806][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.08.27-12.36.30:806][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.08.27-12.36.30:806][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.27-12.36.30:964][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.08.27-12.36.37:816][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.27-12.36.37:905][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.27-12.36.39:522][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.08.27-12.36.40:754][  0]SourceControl: Source control is disabled
+[2018.08.27-12.36.40:754][  0]SourceControl: Source control is disabled
+[2018.08.27-12.36.40:934][  0]SourceControl: Source control is disabled
+[2018.08.27-12.36.41:081][  0]SourceControl: Source control is disabled
+[2018.08.27-12.36.42:959][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.27-12.36.43:587][  0]LogOcInput: OculusInput pre-init called
+[2018.08.27-12.36.44:211][  0]LogEngine: Initializing Engine...
+[2018.08.27-12.36.44:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.27-12.36.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.27-12.36.44:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.27-12.36.44:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.27-12.36.44:857][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-12.36.44:888][  0]LogInit: FAudioDevice initialized.
+[2018.08.27-12.36.45:043][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/Korisnik/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.08.27-12.36.45:073][  0]LogInit: Texture streaming: Enabled
+[2018.08.27-12.36.45:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.27-12.36.45:304][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={2DF6F3E0-446C-F28D-59A9-B48A9886DB86}
+[2018.08.27-12.36.45:619][  0]LogInit: Transaction tracking system initialized
+[2018.08.27-12.36.46:388][  0]BlueprintLog: New page: Editor Load
+[2018.08.27-12.36.48:594][  0]LocalizationService: Localization service is disabled
+[2018.08.27-12.36.49:865][  0]LogLinker: Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2018.08.27-12.36.49:865][  0]LogLinker: Warning: Can't find file '/Game/VehicleAdvBP/AdvancedVehicleOverview'
+[2018.08.27-12.36.49:865][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleAdvBP/AdvancedVehicleOverview.AdvancedVehicleOverview_C'
+[2018.08.27-12.36.50:382][  0]LogConsoleResponse: Display: 
+[2018.08.27-12.36.50:701][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.27-12.36.50:701][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.27-12.36.50:701][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.27-12.36.51:676][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/' took 0.02s
+[2018.08.27-12.36.53:601][  0]SourceControl: Source control is disabled
+[2018.08.27-12.36.53:601][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-12.36.53:602][  0]LightingResults: New page: Lighting Build
+[2018.08.27-12.36.53:703][  0]MapCheck: New page: Map Check
+[2018.08.27-12.36.53:703][  0]LightingResults: New page: Lighting Build
+[2018.08.27-12.36.53:850][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-12.36.53:850][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap.
+[2018.08.27-12.36.53:850][  0]LoadErrors: Error: /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2018.08.27-12.36.53:951][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-12.36.53:951][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/StarterContent/Maps/Minimal_Default.umap.
+[2018.08.27-12.36.53:951][  0]LoadErrors: Error: /Game/StarterContent/Maps/Minimal_Default : Can't find file for asset. /Game/StarterContent/Maps/Minimal_Default_BuiltData
+[2018.08.27-12.36.54:001][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-12.36.54:001][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-12.36.54:002][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-12.36.54:002][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-12.36.54:022][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Maps/Minimal_Default_BuiltData'
+[2018.08.27-12.36.54:022][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2018.08.27-12.36.54:022][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Maps/Minimal_Default_BuiltData' while loading NULL.
+[2018.08.27-12.36.54:022][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2018.08.27-12.36.54:217][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.08.27-12.36.54:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-12.36.54:248][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-12.36.54:340][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.182ms to complete.
+[2018.08.27-12.36.54:340][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.738
+[2018.08.27-12.36.54:563][  0]LogCollectionManager: Loaded 0 collections in 0.003119 seconds
+[2018.08.27-12.36.54:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Collections/' took 0.01s
+[2018.08.27-12.36.54:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Developers/Korisnik/Collections/' took 0.01s
+[2018.08.27-12.36.54:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Collections/' took 0.01s
+[2018.08.27-12.36.54:705][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.27-12.36.54:716][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2363 classes and 519 folders.
+[2018.08.27-12.36.54:879][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-12.36.54:939][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.27-12.36.55:042][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-12.36.55:119][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-12.36.55:124][  0]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.27-12.36.55:135][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.27-12.36.55:284][  0]LogRenderer: Reallocating scene render targets to support 1136x652 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-12.36.55:619][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-12.36.55:619][  0]LogLoad: (Engine Initialization) Total time: 44.22 seconds
+[2018.08.27-12.36.55:619][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.27-12.36.55:619][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.08.27-12.36.55:629][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.27-12.36.55:660][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.27-12.36.55:685][  1]LogAssetRegistry: Asset discovery search completed in 25.9207 seconds
+[2018.08.27-12.36.55:689][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.27-12.36.55:689][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2018.08.27-12.37.02:772][825]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-12.37.08:260][212]LogSlate: Took 0.000279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-12.37.08:279][212]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Korisnik/Downloads/Car_1.FBX)
+[2018.08.27-12.37.08:302][212]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.27-12.37.08:302][212]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.27-12.37.08:302][212]LogFbx: ItemName: Model, ItemCount : 5
+[2018.08.27-12.37.08:302][212]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.08.27-12.37.08:308][212]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.08:319][212]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.18:309][212]LogFbx: Loading FBX Scene from ../../../../../../Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.18:320][212]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.18:320][212]LogFbx: =================================================
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.18:320][212]LogFbx: 	Total Deformer Count -1676075840.
+[2018.08.27-12.37.18:320][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:320][212]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.18:320][212]LogFbx: =================================================
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.18:320][212]LogFbx: 	Total Deformer Count -1388716856.
+[2018.08.27-12.37.18:320][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:320][212]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.18:320][212]LogFbx: =================================================
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.18:320][212]LogFbx: 	Total Deformer Count -1388716856.
+[2018.08.27-12.37.18:320][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:320][212]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.18:320][212]LogFbx: =================================================
+[2018.08.27-12.37.18:320][212]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388716856.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388716856.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1676075840.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:321][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:321][212]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.18:321][212]LogFbx: =================================================
+[2018.08.27-12.37.18:321][212]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.18:321][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:322][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:322][212]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.18:322][212]LogFbx: =================================================
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.18:322][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:322][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:322][212]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.18:322][212]LogFbx: =================================================
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.18:322][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:322][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:322][212]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.18:322][212]LogFbx: =================================================
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.18:322][212]LogFbx: 	Total Deformer Count -1388712824.
+[2018.08.27-12.37.18:322][212]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.18:322][212]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.18:322][212]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.18:331][212]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.18:344][212]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.18:345][212]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.18:347][212]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_Skeleton'
+[2018.08.27-12.37.18:347][212]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_Skeleton'
+[2018.08.27-12.37.18:350][212]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset'
+[2018.08.27-12.37.18:350][212]LogLinker: Can't find file '/Game/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset'
+[2018.08.27-12.37.18:360][212]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.37.23:955][659]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.08.27-12.37.24:236][659]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.08.27-12.37.24:275][659]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.08.27-12.37.24:591][659]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.27-12.37.24:731][659]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.08.27-12.37.24:740][660]LogRenderer: Reallocating scene render targets to support 1144x1008 Format 10 NumSamples 1 (Frame:1).
+[2018.08.27-12.37.29:494][ 89]LogEditorFactories: Performing atomic reimport of [C:/Users/Korisnik/Downloads/Car_1.FBX]
+[2018.08.27-12.37.29:527][ 89]LogFbx: Loading FBX Scene from C:/Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.29:538][ 89]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.29:538][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Total Deformer Count 55239648.
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:538][ 89]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.29:538][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Total Deformer Count 58682728.
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:538][ 89]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.29:538][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Total Deformer Count 58682728.
+[2018.08.27-12.37.29:538][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:538][ 89]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.29:538][ 89]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.29:539][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Total Deformer Count 58682728.
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:539][ 89]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.29:539][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Total Deformer Count 58682728.
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:539][ 89]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.29:539][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Total Deformer Count 55239648.
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:539][ 89]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.29:539][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:539][ 89]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.29:539][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:539][ 89]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.29:539][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.29:540][ 89]LogFbx: =================================================
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Total Deformer Count 58682840.
+[2018.08.27-12.37.29:540][ 89]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.29:540][ 89]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.29:540][ 89]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.29:544][ 89]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.29:580][ 89]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.29:583][ 89]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.29:591][ 89]LogEditorFactories: -- imported successfully
+[2018.08.27-12.37.29:594][ 89]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.37.29:604][ 89]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.08.27-12.37.37:482][747]LogEditorFactories: Performing atomic reimport of [C:/Users/Korisnik/Downloads/Car_1.FBX]
+[2018.08.27-12.37.37:515][747]LogFbx: Loading FBX Scene from C:/Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.37:525][747]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.37:525][747]LogFbx: =================================================
+[2018.08.27-12.37.37:525][747]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.37:525][747]LogFbx: 	Total Deformer Count 58506688.
+[2018.08.27-12.37.37:525][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:525][747]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.37:525][747]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.37:525][747]LogFbx: =================================================
+[2018.08.27-12.37.37:525][747]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.37:525][747]LogFbx: 	Total Deformer Count 58682392.
+[2018.08.27-12.37.37:525][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:525][747]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58682392.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58682392.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58682392.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58506688.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.37:526][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:526][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:526][747]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.37:526][747]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.37:526][747]LogFbx: =================================================
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.37:527][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:527][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:527][747]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.37:527][747]LogFbx: =================================================
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.37:527][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:527][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:527][747]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.37:527][747]LogFbx: =================================================
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.37:527][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:527][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:527][747]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.37:527][747]LogFbx: =================================================
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.37:527][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:527][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:527][747]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.37:527][747]LogFbx: =================================================
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.37:527][747]LogFbx: 	Total Deformer Count 58684912.
+[2018.08.27-12.37.37:527][747]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.37:527][747]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.37:527][747]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.37:530][747]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.37:570][747]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.37:573][747]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.37:575][747]LogEditorFactories: -- imported successfully
+[2018.08.27-12.37.37:578][747]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.37.43:308][211]LogEditorFactories: Performing atomic reimport of [C:/Users/Korisnik/Downloads/Car_1.FBX]
+[2018.08.27-12.37.43:342][211]LogFbx: Loading FBX Scene from C:/Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.43:353][211]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.43:353][211]LogFbx: =================================================
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.43:353][211]LogFbx: 	Total Deformer Count 58503520.
+[2018.08.27-12.37.43:353][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:353][211]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.43:353][211]LogFbx: =================================================
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.43:353][211]LogFbx: 	Total Deformer Count 58686760.
+[2018.08.27-12.37.43:353][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:353][211]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.43:353][211]LogFbx: =================================================
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.43:353][211]LogFbx: 	Total Deformer Count 58686760.
+[2018.08.27-12.37.43:353][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:353][211]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.43:353][211]LogFbx: =================================================
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.43:353][211]LogFbx: 	Total Deformer Count 58686760.
+[2018.08.27-12.37.43:353][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:353][211]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.43:353][211]LogFbx: =================================================
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.43:353][211]LogFbx: 	Total Deformer Count 58686760.
+[2018.08.27-12.37.43:353][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:353][211]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.43:353][211]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58503520.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.43:354][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:354][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:354][211]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.43:354][211]LogFbx: =================================================
+[2018.08.27-12.37.43:354][211]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.43:355][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:355][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:355][211]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.43:355][211]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.43:355][211]LogFbx: =================================================
+[2018.08.27-12.37.43:355][211]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.43:355][211]LogFbx: 	Total Deformer Count 58681216.
+[2018.08.27-12.37.43:355][211]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.43:355][211]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.43:355][211]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.43:357][211]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.43:393][211]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.43:396][211]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.43:398][211]LogEditorFactories: -- imported successfully
+[2018.08.27-12.37.43:402][211]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.37.45:368][390]LogEditorFactories: Performing atomic reimport of [C:/Users/Korisnik/Downloads/Car_1.FBX]
+[2018.08.27-12.37.45:403][390]LogFbx: Loading FBX Scene from C:/Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.45:414][390]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.45:414][390]LogFbx: =================================================
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.45:414][390]LogFbx: 	Total Deformer Count -736675568.
+[2018.08.27-12.37.45:414][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:414][390]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.45:414][390]LogFbx: =================================================
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.45:414][390]LogFbx: 	Total Deformer Count -738215736.
+[2018.08.27-12.37.45:414][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:414][390]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.45:414][390]LogFbx: =================================================
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.45:414][390]LogFbx: 	Total Deformer Count -738215736.
+[2018.08.27-12.37.45:414][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:414][390]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.45:414][390]LogFbx: =================================================
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.45:414][390]LogFbx: 	Total Deformer Count -738215736.
+[2018.08.27-12.37.45:414][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:414][390]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.45:414][390]LogFbx: =================================================
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.45:414][390]LogFbx: 	Total Deformer Count -738215736.
+[2018.08.27-12.37.45:414][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:414][390]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.45:414][390]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -736675568.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:415][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:415][390]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.45:415][390]LogFbx: =================================================
+[2018.08.27-12.37.45:415][390]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.45:415][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:416][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:416][390]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.45:416][390]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.45:416][390]LogFbx: =================================================
+[2018.08.27-12.37.45:416][390]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.45:416][390]LogFbx: 	Total Deformer Count -738215008.
+[2018.08.27-12.37.45:416][390]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.45:416][390]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.45:416][390]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.45:418][390]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.45:456][390]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.45:459][390]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.45:461][390]LogEditorFactories: -- imported successfully
+[2018.08.27-12.37.45:465][390]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.37.49:733][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-12.37.49:759][704]LogSavePackage: Save=22.17ms
+[2018.08.27-12.37.49:759][704]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_101B5856B4F94DFA15A0EBBAB028FF691.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-12.37.49:762][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-12.37.49:780][704]LogSavePackage: Save=5.98ms
+[2018.08.27-12.37.49:780][704]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_Skeleton67B6AD404D67643D4107BF985F004EE4.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset'
+[2018.08.27-12.37.49:784][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_Skeleton.uasset
+[2018.08.27-12.37.49:839][704]LogSavePackage: Save=19.26ms
+[2018.08.27-12.37.49:839][704]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1_PhysicsAsset0338586545A85ED99F15C388BBA6A737.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset'
+[2018.08.27-12.37.49:843][704]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1_PhysicsAsset.uasset
+[2018.08.27-12.37.58:233][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-12.37.58:270][403]LogSavePackage: Save=16.35ms
+[2018.08.27-12.37.58:270][403]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_1AFCD5E4546299E3406407E9C42636067.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-12.37.58:272][403]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-12.37.59:853][561]LogEditorFactories: Performing atomic reimport of [C:/Users/Korisnik/Downloads/Car_1.FBX]
+[2018.08.27-12.37.59:882][561]LogFbx: Loading FBX Scene from C:/Users/Korisnik/Downloads/Car_1.FBX
+[2018.08.27-12.37.59:893][561]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -856167536.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -738215960.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -738215960.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -738215960.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -738215960.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node START [Car_1] 
+[2018.08.27-12.37.59:893][561]LogFbx: 	Total Deformer Count -856167536.
+[2018.08.27-12.37.59:893][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:893][561]LogFbx: 		[Node Attribute Child 1] Car_1 (Type Mesh).
+[2018.08.27-12.37.59:893][561]LogFbx: Dumping Node END [Car_1]
+[2018.08.27-12.37.59:893][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [RB Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] RB Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [RB Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [RF Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] RF Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [RF Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [LF Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:894][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:894][561]LogFbx: 		[Node Attribute Child 1] LF Wheel (Type Mesh).
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node END [LF Wheel]
+[2018.08.27-12.37.59:894][561]LogFbx: =================================================
+[2018.08.27-12.37.59:894][561]LogFbx: Dumping Node START [LB Wheel] 
+[2018.08.27-12.37.59:894][561]LogFbx: 	Total Deformer Count -738216296.
+[2018.08.27-12.37.59:895][561]LogFbx: 	Attribute () Type (4).
+[2018.08.27-12.37.59:895][561]LogFbx: 		[Node Attribute Child 1] LB Wheel (Type Mesh).
+[2018.08.27-12.37.59:895][561]LogFbx: Dumping Node END [LB Wheel]
+[2018.08.27-12.37.59:897][561]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2018.08.27-12.37.59:935][561]LogSkeletalMesh: Section 0: 2508 vertices, 5 active bones
+[2018.08.27-12.37.59:937][561]LogSkeletalMesh: Section 0: Material=0, 1208 triangles
+[2018.08.27-12.37.59:939][561]LogEditorFactories: -- imported successfully
+[2018.08.27-12.37.59:942][561]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2018.08.27-12.38.01:128][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicles/TestAutoLeMan/Car_1" FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset" SILENT=true
+[2018.08.27-12.38.01:163][658]LogSavePackage: Save=21.31ms
+[2018.08.27-12.38.01:163][658]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/Car_140F3064E41FA3191BEE639942ED6EFFA.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset'
+[2018.08.27-12.38.01:167][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/Car_1.uasset
+[2018.08.27-12.38.04:064][858]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.27-12.38.04:933][858]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.27-12.38.05:022][858]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.27-12.38.27:789][221]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.08.27-12.38.27:798][221]LogBlueprint: Error: [Compiler TEstcarAnimationblueprint] TEstcarAnimationblueprint  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2018.08.27-12.38.27:799][221]LogBlueprint: Warning: [Compiler TEstcarAnimationblueprint] [0136.40] Compile of TEstcarAnimationblueprint failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.TEstcarAnimationblueprint)
+[2018.08.27-12.38.51:758][607]BlueprintLog: New page: Compile TestcarBlueprint
+[2018.08.27-12.38.52:658][642]LogSavePackage: Save=44.56ms
+[2018.08.27-12.38.52:658][642]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TestcarBlueprint9208393948D823DDB392C7BB9E1A2D7B.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset'
+[2018.08.27-12.38.52:662][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TestcarBlueprint.uasset
+[2018.08.27-12.38.57:879][823]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.08.27-12.39.03:111][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.08.27-12.39.03:432][195]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.08.27-12.39.05:536][284]LogSavePackage: Save=21.90ms
+[2018.08.27-12.39.05:536][284]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TEstcarAnimationblueprint233B496E48685808CAC978B554A28031.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset'
+[2018.08.27-12.39.05:540][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset
+[2018.08.27-12.39.42:886][805]BlueprintLog: New page: Compile TEstcarAnimationblueprint
+[2018.08.27-12.39.43:591][835]LogSavePackage: Save=28.82ms
+[2018.08.27-12.39.43:591][835]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TEstcarAnimationblueprint444B60D8499FF4057BCADF92EE44A36F.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset'
+[2018.08.27-12.39.43:595][835]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset
+[2018.08.27-12.39.59:900][861]LogSavePackage: Save=18.86ms
+[2018.08.27-12.39.59:900][861]LogSavePackage: Moving '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Saved/TEstcarAnimationblueprint0848044642171B931378408747BED6A5.tmp' to '../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset'
+[2018.08.27-12.39.59:904][861]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Vehicles/TestAutoLeMan/TEstcarAnimationblueprint.uasset
+[2018.08.27-12.40.01:904][ 16]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-12.40.01:940][ 16]Cmd: MAP LOAD FILE="../../../../../../Users/Korisnik/Documents/RacerPrototype/RacerPrototype/Content/Maps/TestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.27-12.40.01:940][ 16]LightingResults: New page: Lighting Build
+[2018.08.27-12.40.01:941][ 16]LoadErrors: New page: Loading map: TestMap1.umap
+[2018.08.27-12.40.01:942][ 16]MapCheck: New page: Map Check
+[2018.08.27-12.40.01:942][ 16]LightingResults: New page: Lighting Build
+[2018.08.27-12.40.02:036][ 16]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.27-12.40.02:097][ 16]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.27-12.40.02:199][ 16]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.967ms to complete.
+[2018.08.27-12.40.02:200][ 16]LogFileHelpers: Loading map 'TestMap1' took 0.263
+[2018.08.27-12.40.17:757][297]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-12.40.17:825][297]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-12.40.17:826][297]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 4:40:17 PM)
+[2018.08.27-12.40.17:826][297]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-12.40.17:831][297]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005511s)
+[2018.08.27-12.40.17:832][297]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-12.40.17:832][297]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2018.08.27-12.40.17:833][297]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.006737s)
+[2018.08.27-12.40.17:891][297]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-12.40.17:904][297]LogInit: FAudioDevice initialized.
+[2018.08.27-12.40.17:953][297]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-12.40.17:956][297]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-14.40.17
+[2018.08.27-12.40.17:957][297]LogWorld: Bringing up level for play took: 0.002947
+[2018.08.27-12.40.18:089][297]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.27-12.40.18:090][297]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 -0.378
+[2018.08.27-12.41.33:268][674]LogAnimation: Warning: AnimBP TEstcarAnimationblueprint_C is incompatible with skeleton SK_Testcar_Skeleton, removing AnimBP from actor.
+[2018.08.27-12.41.33:268][674]LogAnimation: Warning: AnimBP TEstcarAnimationblueprint_C is incompatible with skeleton SK_Testcar_Skeleton, removing AnimBP from actor.
+[2018.08.27-12.41.33:269][674]LogAnimation: Warning: AnimBP TEstcarAnimationblueprint_C is incompatible with skeleton SK_Testcar_Skeleton, removing AnimBP from actor.
+[2018.08.27-12.41.33:270][674]LogAnimation: Warning: AnimBP TEstcarAnimationblueprint_C is incompatible with skeleton SK_Testcar_Skeleton, removing AnimBP from actor.
+[2018.08.27-12.41.56:348][ 97]BlueprintLog: New page: Compile TestcarBlueprint
+[2018.08.27-12.42.00:839][327]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.08.27-12.42.00:872][327]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.08.27-12.45.29:462][368]LogEditorViewport: Clicking on Actor (LMB): TestcarBlueprint_C (TestcarBlueprint)
+[2018.08.27-12.45.31:286][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.27-12.45.31:314][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.27-12.45.31:314][496]PIE: New page: PIE session: TestMap1 (Aug 27, 2018, 4:45:31 PM)
+[2018.08.27-12.45.31:314][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap1
+[2018.08.27-12.45.31:321][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006690s)
+[2018.08.27-12.45.31:322][496]LogAIModule: Creating AISystem for world TestMap1
+[2018.08.27-12.45.31:322][496]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2018.08.27-12.45.31:322][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap1.TestMap1 to /Game/Maps/UEDPIE_0_TestMap1.TestMap1 (0.008314s)
+[2018.08.27-12.45.31:380][496]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.27-12.45.31:403][496]LogInit: FAudioDevice initialized.
+[2018.08.27-12.45.31:442][496]LogLoad: Game class is 'GameModeBase'
+[2018.08.27-12.45.31:445][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap1.TestMap1 up for play (max tick rate 0) at 2018.08.27-14.45.31
+[2018.08.27-12.45.31:446][496]LogWorld: Bringing up level for play took: 0.002608
+[2018.08.27-12.45.31:448][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap1 0.98
+[2018.08.27-12.45.34:924][791]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.758 s
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: === Handled ensure: ===
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: 
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 884]
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: Nans found on Bounds for Primitive VehicleMesh: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=nan Y=nan Z=nan, SphereRadius -nan(ind)
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: Stack: 
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x000000000FA72786 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x000000000F81123A UE4Editor-Core.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x000000000F82B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000F9CCF897 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FF5C3D4C UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FF4FDA79 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FF9FDF1A UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FFA391DD UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FFA4DABA UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000F9D14956 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000FF81DE18 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000001A09D2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x0000000007667446 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x0000000007F14AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000669D5A26 UE4Editor.exe!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000669E5430 UE4Editor.exe!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000669E54AA UE4Editor.exe!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000669F2379 UE4Editor.exe!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x00000000669F3D57 UE4Editor.exe!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x0000000055893034 KERNEL32.DLL!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: [Callstack] 0x0000000056EF1431 ntdll.dll!UnknownFunction []
+[2018.08.27-12.45.34:924][791]LogOutputDevice: Error: 
+[2018.08.27-12.45.34:932][791]LogStats:                SubmitErrorReport -  0.000 s
